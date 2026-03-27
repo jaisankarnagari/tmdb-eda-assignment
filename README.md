@@ -7,4 +7,4 @@ Exploratory Data Analysis of movies data pulled from the TMDB Discover Movies AP
 - README.md — Project description
 
 ## Usage
-Replace `API_KEY` at the top of the notebook with your own TMDB key, then run all cells.
+Replace `TMDB_API_KEY` at the top of the notebook with your own TMDB key, then run all cells.
